@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1573707100 source:c:\users\hp\desktop\electricity complaint cell\main.cpp
+	<iostream>
+	<stdio.h>
+	<fstream>
+
